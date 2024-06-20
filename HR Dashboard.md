@@ -1,3 +1,5 @@
+HR Dashboard.pdf
+
 The task aimed to present the overview of Human Resources data of X company, analyze demographics indicators👧👦 , present the employee structure 👨‍💻 , and visualize trends on employment/new hires 📈
 
 The questions answered were about employee diversification in terms of gender/age/ethnicity/department, number of hired employees by gender between the study period, percentage of employees by current employment status, the salary distribution and variation range by department and more...
